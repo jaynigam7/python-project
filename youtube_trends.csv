@@ -1,0 +1,16 @@
+video_id,title,views,likes,comments,upload_date,category
+vid_1,Sample Video 1,5475,11145,645,2024-12-15,Education
+vid_2,Sample Video 2,274315,1574,2074,2024-12-16,Gaming
+vid_3,Sample Video 3,82307,8130,2221,2024-12-17,News
+vid_4,Sample Video 4,173805,252,2882,2024-12-18,Education
+vid_5,Sample Video 5,390651,7339,922,2024-12-19,News
+vid_6,Sample Video 6,124111,16326,2080,2024-12-20,Gaming
+vid_7,Sample Video 7,190849,1315,1259,2024-12-21,Sports
+vid_8,Sample Video 8,305204,5749,2858,2024-12-22,Gaming
+vid_9,Sample Video 9,200879,14412,410,2024-12-23,News
+vid_10,Sample Video 10,203039,8948,2650,2024-12-24,News
+vid_11,Sample Video 11,97522,18424,741,2024-12-25,Music
+vid_12,Sample Video 12,317200,18847,1012,2024-12-26,News
+vid_13,Sample Video 13,257916,2444,832,2024-12-27,News
+vid_14,Sample Video 14,444213,2751,2899,2024-12-28,News
+vid_15,Sample Video 15,63153,11948,1253,2024-12-29,Sports
