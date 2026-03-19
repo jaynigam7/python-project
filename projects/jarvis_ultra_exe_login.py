@@ -17,12 +17,6 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import getSampleStyleSheet
 
-
-# ===================== GEMINI API KEY =====================
-GEMINI_API_KEY = "AIzaSyA8Rrz2TMqcexs9hD-PCH1z3z5E9rtNT5A"
-MODEL_NAME = "gemini-1.5-flash"
-# ==========================================================
-
 DB_FILE = "chat_history.db"
 WAKE_WORD = "jarvis"
 MIN_SECONDS_BETWEEN_MESSAGES = 2.0
